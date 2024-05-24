@@ -5,5 +5,16 @@
   "permissions": ["webRequest", "webRequestBlocking", "webNavigation", "tabs", "<all_urls>"],
   "background": {
     "service_worker": "background.js"
-  }
+  },
+  "icons": {
+    "16": "./logo.png",
+    "48": "./logo.png",
+    "128": "./logo.png"
+  },
+  "browser_action": {
+    "default_icon": {
+      "16": "./logo.png",
+      "48": "./logo.png",
+      "128": "./logo.png"
+    }}
 }
