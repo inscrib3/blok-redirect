@@ -1,4 +1,4 @@
-# Block Redirect
+# BLOK REDIRECT
 
 ## Description
 Activating this you can access to the blok world.
